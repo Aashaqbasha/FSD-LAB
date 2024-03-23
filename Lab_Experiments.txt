@@ -1,0 +1,2 @@
+1.Try to create the following pattern using html and css.
+2.Design a calculator using javascript and css.
